@@ -63,4 +63,4 @@ docker run --rm -v "${PWD}:/data" factorypulse-ingestion --count 20 --output /da
 
 ## License
 
-MIT © 2026 David Falcon
+MIT © 2026 David
